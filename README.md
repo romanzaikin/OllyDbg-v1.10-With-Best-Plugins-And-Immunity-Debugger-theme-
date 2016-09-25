@@ -13,5 +13,8 @@ Make OllyDbg v1.10 Look like Immunity Debugger &amp; Best Plugins
 - EasyController v1.0.5.0
 - Analyze This v0.1
 
-Thanks :)
+```before using upade the ini file to match the location of the project```
 
+![alt tag](https://raw.githubusercontent.com/romanzaikin/OllyDbg-v1.10-With-Best-Plugins-And-Immunity-Debugger-theme-/master/odbg%20place.JPG)
+
+Thanks :)
