@@ -20,10 +20,15 @@ Make OllyDbg v1.10 Look like Immunity Debugger &amp; Best Plugins
 ==========================
 Configuration
 ==========================
-1) Downlaod the zip file or clone
-2) Extract the file to C:\OllyDbg (or any other place you want)
-3) Open ollydbg.ini
+1) Downlaod the zip file or clone.
+
+2) Extract the file to C:\OllyDbg (or any other place you want).
+
+3) Open ollydbg.ini.
+
 4) Replace all "C:\new odbg110" to your Extract path "C:\OllyDbg".
-5) Run OLLYDBG.EXE and have a Happy reversing
+
+5) Run OLLYDBG.EXE and have a Happy reversing.
+
 
 Thanks :)
