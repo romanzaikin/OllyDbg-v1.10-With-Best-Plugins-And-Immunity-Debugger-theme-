@@ -12,6 +12,7 @@ Make OllyDbg v1.10 Look like Immunity Debugger &amp; Best Plugins
 - OllyDump v3.00.110
 - EasyController v1.0.5.0
 - Analyze This v0.1
+- Labless v1.1.2.85
 
 ```before using update the ini file to match the location of the project```
 
